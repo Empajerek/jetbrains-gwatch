@@ -1,0 +1,499 @@
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+read
+write 10
+read
+add 5
+read
+add 15
+read
+write 100
+read
+add 23
+add 50
+read
+write 7
+add 3
+read
+add 20
+read
+add -5
+read
+write 200
+add 100
+read
+add -50
+read
+write 999
+read
+add 1
+read
+add 100
+read
+write 42
+add 8
+read
+add 10
+read
+add 5
+add 5
+read
+exit

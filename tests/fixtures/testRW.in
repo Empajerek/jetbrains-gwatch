@@ -1,0 +1,59 @@
+write 5
+read
+write 10
+read
+write 15
+read
+write 100
+read
+write 0
+read
+write 23
+read
+write 999
+read
+write 42
+read
+write 314
+read
+write 271
+read
+write 88
+read
+write 777
+read
+write 123
+read
+write 456
+read
+write 789
+read
+write 1000
+read
+write 50
+read
+write 75
+read
+write 125
+read
+write 250
+read
+write 500
+read
+write 750
+read
+write 1024
+read
+write 2048
+read
+write 4096
+read
+write 8192
+read
+write 16384
+read
+write 32768
+read
+write 65535
+read
+exit

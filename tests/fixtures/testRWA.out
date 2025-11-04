@@ -1,0 +1,694 @@
+<z>    write    0 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    write    300 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    read    65
+<z>    write    65 -> 15
+<z>    read    15
+<z>    write    15 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    write    60 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    read    15
+<z>    write    15 -> 30
+<z>    read    30
+<z>    write    30 -> 100
+<z>    read    100
+<z>    read    100
+<z>    write    100 -> 123
+<z>    read    123
+<z>    write    123 -> 173
+<z>    read    173
+<z>    write    173 -> 7
+<z>    read    7
+<z>    write    7 -> 10
+<z>    read    10
+<z>    read    10
+<z>    write    10 -> 30
+<z>    read    30
+<z>    read    30
+<z>    write    30 -> 25
+<z>    read    25
+<z>    write    25 -> 200
+<z>    read    200
+<z>    write    200 -> 300
+<z>    read    300
+<z>    read    300
+<z>    write    300 -> 250
+<z>    read    250
+<z>    write    250 -> 999
+<z>    read    999
+<z>    read    999
+<z>    write    999 -> 1000
+<z>    read    1000
+<z>    read    1000
+<z>    write    1000 -> 1100
+<z>    read    1100
+<z>    write    1100 -> 42
+<z>    read    42
+<z>    write    42 -> 50
+<z>    read    50
+<z>    read    50
+<z>    write    50 -> 60
+<z>    read    60
+<z>    read    60
+<z>    write    60 -> 65
+<z>    read    65
+<z>    write    65 -> 70
+<z>    read    70

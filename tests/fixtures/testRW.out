@@ -1,0 +1,58 @@
+<z>    write    0 -> 5
+<z>    read    5
+<z>    write    5 -> 10
+<z>    read    10
+<z>    write    10 -> 15
+<z>    read    15
+<z>    write    15 -> 100
+<z>    read    100
+<z>    write    100 -> 0
+<z>    read    0
+<z>    write    0 -> 23
+<z>    read    23
+<z>    write    23 -> 999
+<z>    read    999
+<z>    write    999 -> 42
+<z>    read    42
+<z>    write    42 -> 314
+<z>    read    314
+<z>    write    314 -> 271
+<z>    read    271
+<z>    write    271 -> 88
+<z>    read    88
+<z>    write    88 -> 777
+<z>    read    777
+<z>    write    777 -> 123
+<z>    read    123
+<z>    write    123 -> 456
+<z>    read    456
+<z>    write    456 -> 789
+<z>    read    789
+<z>    write    789 -> 1000
+<z>    read    1000
+<z>    write    1000 -> 50
+<z>    read    50
+<z>    write    50 -> 75
+<z>    read    75
+<z>    write    75 -> 125
+<z>    read    125
+<z>    write    125 -> 250
+<z>    read    250
+<z>    write    250 -> 500
+<z>    read    500
+<z>    write    500 -> 750
+<z>    read    750
+<z>    write    750 -> 1024
+<z>    read    1024
+<z>    write    1024 -> 2048
+<z>    read    2048
+<z>    write    2048 -> 4096
+<z>    read    4096
+<z>    write    4096 -> 8192
+<z>    read    8192
+<z>    write    8192 -> 16384
+<z>    read    16384
+<z>    write    16384 -> 32768
+<z>    read    32768
+<z>    write    32768 -> 65535
+<z>    read    65535
