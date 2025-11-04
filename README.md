@@ -39,6 +39,11 @@ I prepared a example program called `sample` so utility can be run with
 ```
 
 ## Tests
+Install gtests (i wasn't able to add it correctly as a submodule)
+```
+git clone https://github.com/google/googletest.git third_party/googletest
+```
+
 Run the test suite with:
 
 ```
